@@ -52,6 +52,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+<p align="center"><a href="https://documenter.getpostman.com/view/34493470/2sA3JM71e1" target="_blank"> Postman link</a></p>
 
 ## Code of Conduct
 
